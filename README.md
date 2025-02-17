@@ -1,4 +1,4 @@
-# EDUCilicili  
+# EDUcilicili  
 *Decentralized Education Content Sharing & Incentive Platform*
 
 ---
@@ -62,7 +62,7 @@
 
 ## Getting Started 🚀
 1. Clone the repo:  
-   `git clone https://github.com/0xiPower/EDUCilicilili-fullstack.git`
+   `git clone https://github.com/0xiPower/EDUcilicili-fullstack.git`
 2. Install dependencies:  
    `npm install`
 3. Start local node:  
